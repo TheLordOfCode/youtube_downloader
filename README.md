@@ -79,7 +79,7 @@ pip install -U yt-dlp
 
 ## 👨‍💻 Autor
 
-**Juan Quevedo**  
+**TheLordOfCode**  
 Proyecto educativo en Python — 2025
 
 ---
