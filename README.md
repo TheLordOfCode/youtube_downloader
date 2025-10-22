@@ -4,6 +4,7 @@ Aplicación gráfica escrita en **Python** que permite descargar videos de **You
 No requiere FFmpeg ni configuraciones avanzadas. Ideal para uso personal y educativo.
 
 ---
+![captura de interfaz](img/interfaz.png)
 
 ## 🚀 Características
 
